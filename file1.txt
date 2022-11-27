@@ -1,2 +1,2 @@
-new from repo2
+new 
 repo1 changes
